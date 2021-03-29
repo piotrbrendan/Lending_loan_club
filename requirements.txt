@@ -44,7 +44,7 @@ plotly==4.3.0
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
 property-cached==1.6.3
-Pygments==2.4.2
+Pygments==2.7.4
 pylint==2.4.4
 pyparsing==2.4.5
 pyrsistent==0.15.5
